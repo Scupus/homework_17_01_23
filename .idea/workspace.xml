@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8db3bb21-a041-4b3f-b186-2bf1c6fc4e09" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="8db3bb21-a041-4b3f-b186-2bf1c6fc4e09" name="Changes" comment="Первая часть ДЗ, создан класс Transport, создан наследуемый класс СAR добавлены новые ненаследуемые поля, созданы проверки занесены 3 объекта в Main">
+      <change afterPath="$PROJECT_DIR$/src/Bus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -61,8 +59,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674263622401</updated>
-      <workItem from="1674263624096" duration="5728000" />
+      <workItem from="1674263624096" duration="6029000" />
+      <workItem from="1674282179060" duration="800000" />
     </task>
+    <task id="LOCAL-00001" summary="Первая часть ДЗ, создан класс Transport, создан наследуемый класс СAR добавлены новые ненаследуемые поля, созданы проверки занесены 3 объекта в Main">
+      <created>1674273225492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674273225493</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первая часть ДЗ, создан класс Transport, создан наследуемый класс СAR добавлены новые ненаследуемые поля, созданы проверки занесены 3 объекта в Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первая часть ДЗ, создан класс Transport, создан наследуемый класс СAR добавлены новые ненаследуемые поля, созданы проверки занесены 3 объекта в Main" />
   </component>
 </project>
